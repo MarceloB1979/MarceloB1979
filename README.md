@@ -33,7 +33,7 @@
   <!-- Links -->
 <a href= "www.linkedin.com/in/marcelo-bordinhão-dev">
 <img align= "center" height= "80" width= 81 src="https://github.com/user-attachments/assets/ace00cfe-e9f8-4844-9238-ae6365b526cb">
-  <a href="mailto:cmp.1a.bordinhao1979.mb@gmail.com">
+  <a href="mailto:bordinhao1979.mb@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
 </a>
 </a>
