@@ -22,7 +22,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MarceloB1979&theme=merko&mode=weekly">
   <br>
   <br>
+  <br>
+    
+  <!--Graph-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarceloB1979&bg_color=40b238&color=1fff4b&line=56f74b&point=91ff24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+<br>
+<br>
   <!-- Links -->
 <a href= "www.linkedin.com/in/marcelo-bordinhão-dev">
 <img align= "center" height= "80" width= 81 src="https://github.com/user-attachments/assets/ace00cfe-e9f8-4844-9238-ae6365b526cb">
