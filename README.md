@@ -26,13 +26,22 @@
   <!-- Links -->
 <a href= "www.linkedin.com/in/marcelo-bordinhão-dev">
 <img align= "center" height= "80" width= 81 src="https://github.com/user-attachments/assets/ace00cfe-e9f8-4844-9238-ae6365b526cb">
-<a href= mailto:cmp "<bordinhao1979.mb@gmail.com">
-<img align= "center" height= "84" width= 84 src="https://github.com/user-attachments/assets/34f707bc-42ae-4526-9c81-6a923e025063">
+  <a href="mailto:cmp.1a.bordinhao1979.mb@gmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
+</a>
 </a>
 
  </div>
+ 
 <br>
 <br>
+
+  <!-- Graphic -->
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/MarceloB1979?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green) 
+
+</div>
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
@@ -58,10 +67,24 @@
    <br>
    <br>
 
+  <!--Visitors-->
+  <div>
+<p align="centre"><b>Visitors Count</b></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarceloB1979&s=40&c=00ff00&bg=1b5025&no=2&ff=digi&tb=Visits%3A++&ta="/></p> 
+<br>
+</div>
+
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+<br>
+<br>
+<br>
+<!--Baseboard-->
+<div align="center">
+  
+<img widht= 100% bottom= 50px src="https://github.com/user-attachments/assets/55d36326-0299-4e80-940d-8c8263dc2d86"/>
 
 
 </div>
